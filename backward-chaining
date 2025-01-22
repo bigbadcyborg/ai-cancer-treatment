@@ -10,6 +10,6 @@ There will be a conclusion list which is added to after rules are determined to 
 
 The conclusion stack will contain rule number with is assocated clause number
 
-Clause variable list. 4 clauses per rule
+Clause variable list: 4 statements per clause
 
 */
