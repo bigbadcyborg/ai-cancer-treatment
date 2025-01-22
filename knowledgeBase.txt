@@ -1,0 +1,3 @@
+IF lump AND cough THEN lung cancer
+IF lump AND abnormal bleeding THEN breast cancer
+IF weight loss AND blood in stool THEN colon cancer
