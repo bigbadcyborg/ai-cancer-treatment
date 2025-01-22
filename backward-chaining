@@ -1,0 +1,15 @@
+/*
+
+Backward Chaining is a goal driven method that adds rule base and fact base to the stack in order to reach the user's goal.
+
+Our knowledge base will contain the condition rules
+
+There will be a variable list which will contain the elements to be tested
+
+There will be a conclusion list which is added to after rules are determined to be satisfied.
+
+The conclusion stack will contain rule number with is assocated clause number
+
+Clause variable list. 4 clauses per rule
+
+*/
