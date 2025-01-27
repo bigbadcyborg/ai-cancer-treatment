@@ -11,4 +11,4 @@ i can implement other types of queries such as advice referencing The Holy Bible
 [forwardChaining.cpp](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/forwardChaining.cpp) <br>
 [backwardChaining.cpp](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/backwardChaining.cpp) <br>
 
-[Data Structure Differences](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/data-structure-differences.png)
+![Data Structure Differences](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/data-structure-differences.png)
