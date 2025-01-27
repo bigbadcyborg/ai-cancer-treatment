@@ -8,5 +8,5 @@ i can implement other types of queries such as advice referencing The Holy Bible
 [conclusionList.txt](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/conclusionList) <br><br><br>
 
 
-[forwardChaining.cpp](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/forwardChaining.cpp)
+[forwardChaining.cpp](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/forwardChaining.cpp) <br>
 [backwardChaining.cpp](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/backwardChaining.cpp)
