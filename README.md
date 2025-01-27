@@ -12,3 +12,4 @@ i can implement other types of queries such as advice referencing The Holy Bible
 [backwardChaining.cpp](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/backwardChaining.cpp) <br>
 
 ![Data Structure Differences](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/data-structure-differences.png)
+![Rule Based Intelligent Expert System Configuration](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/rule-based-intelligent-expert-system-config.png)
