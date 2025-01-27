@@ -13,4 +13,9 @@ Clause variable list: a list that contains elements or statements associated wit
 
 conclusion list: which is added to after rules are determined to be satisfied.
 
+CPS#2-25:
+    CLAUSE NUMBER = 4* (RULE NUMBER  / 10 - 1) + 1
+
+
+
 */
