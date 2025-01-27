@@ -5,5 +5,8 @@ i can implement other types of queries such as advice referencing The Holy Bible
 [ruleBase.txt](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/variableList.txt) <br>
 [knowledgeBase.txt](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/knowledgeBase.txt) <br>
 [clauseList.txt](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/clauseList.txt) <br>
-[conclusionList.txt](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/conclusionList) <br>
+[conclusionList.txt](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/conclusionList) <br><br><br>
 
+
+[forwardChaining.cpp](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/forwardChaining.cpp)
+[backwardChaining.cpp](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/backwardChaining.cpp)
