@@ -4,5 +4,8 @@
 
     Our rule base will contain cancer symptoms.
 
+    CPS#2-53:
+        Rule # = [({Quotient (Clause # / 4)} +1) * 10]
+
 
 */
