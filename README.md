@@ -1,5 +1,5 @@
 My goal is to develop this ai model in a way that 
-i can implement other types of queries such as advice referencing any material e.g. cancer diagnosis and treaments documentation/researches or The Holy Bible
+i can implement other types of queries such as advice referencing any material e.g. cancer diagnosis and treatments documentation/researches or The Holy Bible
 
 [variableList.txt](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/variableList.txt) <br>
 [ruleBase.txt](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/variableList.txt) <br>
