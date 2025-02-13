@@ -17,3 +17,4 @@ i can implement other types of queries such as advice referencing any material e
 ![Rule Based Intelligent Expert System Configuration](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/rule-based-intelligent-expert-system-config.png)
 ![Base-Matrix](knowledgeBase-RuleBase-FactBase-chart.png)
 ![Rules](SS0.png)
+![Flowchart](drawio.drawio.png)
