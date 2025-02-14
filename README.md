@@ -18,3 +18,4 @@ i can implement other types of queries such as advice referencing any material e
 ![Base-Matrix](knowledgeBase-RuleBase-FactBase-chart.png)
 ![Flowchart](drawio.drawio.png)
 ![Rules](SS0.png)
+![flowchart-backwardChaining](flowchart-backwardChaining.png)
