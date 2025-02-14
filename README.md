@@ -15,10 +15,17 @@ i can implement other types of queries such as advice referencing any material e
 
 ![Data Structure Differences](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/data-structure-differences.png)
 ![Rule Based Intelligent Expert System Configuration](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/rule-based-intelligent-expert-system-config.png)
+
 ![Base-Matrix](knowledgeBase-RuleBase-FactBase-chart.png)
+
+# Driver flow
 ![Flowchart](drawio.drawio.png)
-![Rules](SS0.png)
+
+# Rules
+![Rules](SS0.png) <br>
+
+# Backward Chaining
 ![flowchart-backwardChaining](/ai-cancer-treatment/backwardChaining/flowchart-backwardChaining.png) <br>
 
-# testing backwardChaining::userValidClauseVect
-![test-backwardChaining-userValidClauseVect](/ai-cancer-treatment/backwardChaining/test-backwardChaining-userValidClauseVect.png)
+# Testing backwardChaining::userValidClauseVect
+![test-backwardChaining-userValidClauseVect](/ai-cancer-treatment/backwardChaining/test-backwardChaining-userValidClauseVect.png) <br>
