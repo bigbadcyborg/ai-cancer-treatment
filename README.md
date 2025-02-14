@@ -3,7 +3,7 @@ i can implement other types of queries such as advice referencing any material e
 
 “In **rule-based AI**, the **fact base** provides input, the **rule base** processes it, and the **knowledge base** contains all necessary relationships.”
 
-[ruleBase](https://github.com/bigbadcyborg/ai-cancer-treatment/ruleBase) <br>
+[ruleBase](/ai-cancer-treatment/ruleBase) <br>
 [knowledgeBase](https://github.com/bigbadcyborg/ai-cancer-treatment/knowledgeBase) will use a Rule Base and and a Fact Base<br>
 
 [forwardChaining.cpp](https://github.com/bigbadcyborg/ai-cancer-treatment/forwardChaining) <br>
