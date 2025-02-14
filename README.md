@@ -3,12 +3,8 @@ i can implement other types of queries such as advice referencing any material e
 
 “In **rule-based AI**, the **fact base** provides input, the **rule base** processes it, and the **knowledge base** contains all necessary relationships.”
 
-[variableList](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/variableList.txt) <br>
-[ruleBase](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/variableList.txt) <br>
-[knowledgeBase](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/knowledgeBase.txt) will use a Rule Base and and a Fact Base<br>
-[clauseList](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/clauseList.txt) <br>
-[conclusionList](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/conclusionList) <br><br>
-
+[ruleBase](https://github.com/bigbadcyborg/ai-cancer-treatment/ruleBase) <br>
+[knowledgeBase](https://github.com/bigbadcyborg/ai-cancer-treatment/knowledgeBase) will use a Rule Base and and a Fact Base<br>
 
 [forwardChaining.cpp](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/forwardChaining.cpp) <br>
 [backwardChaining.cpp](https://github.com/bigbadcyborg/artificial-intelligence/blob/main/backwardChaining.cpp) <br>
