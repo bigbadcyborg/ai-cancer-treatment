@@ -24,5 +24,5 @@ i can implement other types of queries such as advice referencing any material e
 # Backward Chaining
 ![flowchart-backwardChaining](/ai-cancer-treatment/backwardChaining/flowchart-backwardChaining.png) <br>
 
-# Testing backwardChaining::userValidClauseVect
-![test-backwardChaining-userValidClauseVect](/ai-cancer-treatment/backwardChaining/test-backwardChaining-userValidClauseVect.png) <br>
+# Testing backwardChaining::userValidClauseVect and backwardChaining::generateSubsets
+![test-backwardChaining-userValidClauseVect](/ai-cancer-treatment/backwardChaining/test-backwardChaining-generateSubsets.png) <br>
