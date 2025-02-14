@@ -1,5 +1,5 @@
 My goal is to develop this ai model in a way that 
-i can implement other types of queries such as advice referencing any material e.g. cancer diagnosis, treatments, documentation/researches or The Holy Bible
+i can implement other types of queries such as advice referencing any material e.g. cancer diagnosis, treatments, documentation/researches, The Holy Bible, and so much more
 
 “In **rule-based AI**, the **fact base** provides input, the **rule base** processes it, and the **knowledge base** contains all necessary relationships.”
 
