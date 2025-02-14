@@ -19,4 +19,4 @@ i can implement other types of queries such as advice referencing any material e
 ![Flowchart](drawio.drawio.png)
 ![Rules](SS0.png)
 ![flowchart-backwardChaining](/ai-cancer-treatment/backwardChaining/flowchart-backwardChaining.png)
-![test-backwardChaining-userValidClauseVect](/ai-cancer-treatment/backwardChaining/test-backwardChaining-userValidClauseVect)
+![test-backwardChaining-userValidClauseVect](/ai-cancer-treatment/backwardChaining/test-backwardChaining-userValidClauseVect.png)
