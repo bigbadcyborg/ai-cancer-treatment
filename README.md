@@ -1,6 +1,6 @@
  I used to always say, "We live in the best time because, with computers, we have the world at our fingertips."
  
-While I still believe that is very true, I now give a more accurate depiction instead:
+While I still believe that is very true, I now give a more accurate depiction instead:<br><br>
 "We live in the best time because we have infinite knowledge at our fingertips."
 
 My goal is to develop this ai model in a way that 
