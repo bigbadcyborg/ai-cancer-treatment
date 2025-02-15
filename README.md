@@ -1,4 +1,7 @@
- I used to always say, we live in the best time because, with computers, we have the world at our fingertips." and while I still believe that is very true, Instead of saying this I now say it more accurate reasoning, "we live in the best time because we have infinite knowledge at our fingertips."
+ I used to always say, "We live in the best time because, with computers, we have the world at our fingertips."
+ 
+While I still believe that is very true, I now give a more accurate depiction instead:
+"We live in the best time because we have infinite knowledge at our fingertips."
 
 My goal is to develop this ai model in a way that 
 i can implement other types of queries such as advice referencing any material e.g. cancer diagnosis, treatments, documentation/researches, animal diagnosis/treatments, The Holy Bible references, and so much more.
