@@ -26,3 +26,7 @@ i can implement other types of queries such as advice referencing any material e
 
 # Testing backwardChaining::userValidClauseVect and backwardChaining::generateSubsets
 ![test-backwardChaining-userValidClauseVect](/ai-cancer-treatment/backwardChaining/test-backwardChaining-generateSubsets.png) <br>
+
+# Testing backwardChaining.cpp's diagnosis / possible conclusion
+![possibleSolution](/ai-cancer-treatment/backwardChaining/test-backwardChaining-possibleConclusions)
+![diagnosis](/ai-cancer-treatment/backwardChaining/test-backwardChaining-diagnosis)
