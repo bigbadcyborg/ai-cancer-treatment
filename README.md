@@ -6,7 +6,7 @@ Humans are active participants in knowledge-making. And our dynamic and interact
 
 # Table of Contents
 [ruleBase](/ai-cancer-treatment/ruleBase/) <br>
-[knowledgeBase](/ai-cancer-treatment/knowledgeBase/) (will use a Rule Base and and a Fact Base) <br>
+[knowledgeBase](/ai-cancer-treatment/knowledgeBase/) creates rules using facts (will use a Rule Base and and a Fact Base) <br>
 
 [forwardChaining](/ai-cancer-treatment/forwardChaining/) <br>
 [backwardChaining](/ai-cancer-treatment/backwardChaining/) <br>
