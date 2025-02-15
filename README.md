@@ -1,6 +1,6 @@
 My goal is to develop this ai model in a way that 
 i can implement other types of queries such as advice referencing any material e.g. cancer diagnosis, treatments, documentation/researches, The Holy Bible, and so much more.<br>
-Humans are active participants in knowledge-making. And our dynamic and interactive inquiries based on experience provides us our knowledge. I am developing a fact based artificial intelligence program which uses a knowledge base. Over time, I will develop the knowledge base to be trained based on inquiries from deep learning algorithms as well as set rules.
+Humans are active participants in knowledge-making. And our dynamic and interactive inquiries based on experience provides us our knowledge. And our knowledge is what adds to our rule set and fact set. I am developing a fact based artificial intelligence program which uses a knowledge base. Over time, I will develop the knowledge base to be trained based on inquiries from deep learning algorithms as well as set rules.
 
 “In **rule-based AI**, the **fact base** provides input, the **rule base** processes it, and the **knowledge base** contains all necessary relationships.”
 
