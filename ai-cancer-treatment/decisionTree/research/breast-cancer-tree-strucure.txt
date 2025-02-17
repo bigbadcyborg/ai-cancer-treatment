@@ -1,0 +1,30 @@
+Start: Patient diagnosed with Breast Cancer
+   │
+   ├─ Q1: Is the disease early-stage and localized? (Yes/No)
+   │     │
+   │     ├─ Yes
+   │     │    │
+   │     │    ├─ Q2: Can breast-conserving surgery be performed? (Yes/No)
+   │     │    │     │
+   │     │    │     ├─ Yes → Treatment: Lumpectomy
+   │     │    │     │           then Radiation Therapy ± Chemotherapy (based on staging)
+   │     │    │     │
+   │     │    │     └─ No  → Treatment: Mastectomy
+   │     │    │                   then Adjuvant Chemotherapy ± Radiation Therapy
+   │     │    │
+   │     │    ├─ Q3: Is the tumor hormone receptor–positive? (Yes/No)
+   │     │    │     │
+   │     │    │     ├─ Yes → Add Hormone Therapy to the treatment plan
+   │     │    │     │
+   │     │    │     └─ No  → Proceed to next evaluation
+   │     │    │
+   │     │    └─ Q4: Is the tumor HER2–positive? (Yes/No)
+   │     │           │
+   │     │           ├─ Yes → Add Targeted Therapy (e.g., Trastuzumab)
+   │     │           │
+   │     │           └─ No  → Follow standard post-surgical care
+   │     │
+   │     └─ No  → Treatment: Manage as Advanced Disease
+   │           (Systemic Chemotherapy ± Targeted/Immunotherapy based on further evaluation)
+   │
+End

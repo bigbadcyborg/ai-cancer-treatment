@@ -1,0 +1,23 @@
+Start: Patient diagnosed with Lung Cancer
+   │
+   ├─ Q1: Is the cancer localized? (Yes/No)
+   │     │
+   │     ├─ Yes
+   │     │    │
+   │     │    ├─ Q2: Is the tumor resectable? (Yes/No)
+   │     │    │     │
+   │     │    │     ├─ Yes → Treatment: Surgery (e.g., lobectomy)
+   │     │    │     │           then Adjuvant Chemotherapy ± Radiation Therapy
+   │     │    │     │
+   │     │    │     └─ No  → Treatment: Definitive Chemoradiation
+   │     │    │
+   │     │
+   │     └─ No
+   │           │
+   │           ├─ Q3: Does the tumor have actionable mutations (EGFR, ALK, etc.)? (Yes/No)
+   │           │     │
+   │           │     ├─ Yes → Treatment: Targeted Therapy
+   │           │     │
+   │           │     └─ No  → Treatment: Immunotherapy (or combination with Chemotherapy)
+   │
+End
