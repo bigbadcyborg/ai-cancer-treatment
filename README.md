@@ -1,4 +1,4 @@
-"Philosophy ought to imitate the successful sciences in its methods, so far as to proceed only from tanglible premisses which can be
+"Philosophy ought to imitate the successful sciences in its methods, so far as to proceed only from tangible premisses which can be
 subjected to careful scrutiny, and to trust rather to the multitude and variety of its arguments than to the conclusiveness
 of any one. Its reasoning should not form a chain which is no stronger than its weakest link, but a cable whose fibres may
 be ever so slender, provided they are sufficiently numerous and intimately connected." ( "Some Consequences of Four Incapacities" Charles S. Peirce ) <br><br>
