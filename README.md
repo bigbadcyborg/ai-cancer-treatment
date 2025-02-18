@@ -43,3 +43,6 @@ Humans are active participants in knowledge-making. And our dynamic and interact
 
 # Testing backwardChaining.cpp's Diagnosis
 ![diagnosis](/ai-cancer-treatment/backwardChaining/test-backwardChaining-diagnosis.png)
+
+# Testing decisionTree.h
+![dt](/ai-cancer-treatment/decisionTree/test-decisionTree.png)
