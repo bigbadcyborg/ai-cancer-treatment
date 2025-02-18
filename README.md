@@ -46,3 +46,4 @@ Humans are active participants in knowledge-making. And our dynamic and interact
 
 # Testing decisionTree.h
 ![dt](/ai-cancer-treatment/decisionTree/test-decisionTree.png)
+![treeTypes](ai-cancer-treatment/decisionTree/treeTypes.png)
