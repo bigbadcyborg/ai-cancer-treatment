@@ -48,5 +48,5 @@ Humans are active participants in knowledge-making. And our dynamic and interact
 ![dt](/ai-cancer-treatment/decisionTree/test-decisionTree.png)
 
 # Testing treeTypes.h
-Each Conclusion inherits a Global Static Decision Tree:<br><br>
+Each Conclusion inherits and overrides a Global Static Decision Tree for polymorphic capabilities:<br><br>
 ![treeTypes](ai-cancer-treatment/decisionTree/treeTypes.png)
