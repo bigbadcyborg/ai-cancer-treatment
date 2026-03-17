@@ -1,6 +1,7 @@
+#include "../variableList/conclusionTypes.h"
+#include "decisionTree.h" // has ConclusionTypes and ClauseTypes
 #include "./treeTypes/BreastCancerTree.h"
 #include "./treeTypes/LungCancerTree.h"
-#include "decisionTree.h" // has ConclusionTypes and ClauseTypes
 #include <algorithm>  // For std::transform
 
 
