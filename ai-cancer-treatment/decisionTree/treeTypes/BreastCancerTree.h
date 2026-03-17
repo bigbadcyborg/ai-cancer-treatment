@@ -8,10 +8,10 @@ class BreastCancerTree : public DecisionTree {
         this->root = new DecisionNode("Is the disease early-stage and localized?");
         
         this->root->yes = new DecisionNode("Can breast-conserving surgery be performed?");
-        this->root->yes->yes = new DecisionNode("Lumpectomy + Radiation Therapy ± Chemotherapy");
-        this->root->yes->no = new DecisionNode("Mastectomy + Adjuvant Chemotherapy ± Radiation Therapy");
+        this->root->yes->yes = new DecisionNode("Lumpectomy + Radiation Therapy +/- Chemotherapy");
+        this->root->yes->no = new DecisionNode("Mastectomy + Adjuvant Chemotherapy +/- Radiation Therapy");
 
-        this->root->no = new DecisionNode("Systemic Chemotherapy ± Targeted/Immunotherapy");
+        this->root->no = new DecisionNode("Systemic Chemotherapy +/- Targeted/Immunotherapy");
     }
 };
 
