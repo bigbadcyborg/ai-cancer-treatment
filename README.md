@@ -14,43 +14,6 @@ Humans are active participants in knowledge-making. And our dynamic and interact
 
 “In **rule-based AI**, the **fact base** provides input, the **rule base** processes it, and the **knowledge base** contains all necessary relationships.”
 
-# Table of Contents
-[ruleBase](/ai-cancer-treatment/ruleBase/) <br>
-[knowledgeBase](/ai-cancer-treatment/knowledgeBase/) creates rules using facts (will use a Rule Base and and a Fact Base) <br>
-
-[forwardChaining](/ai-cancer-treatment/forwardChaining/) <br>
-[backwardChaining](/ai-cancer-treatment/backwardChaining/) <br>
-
-![Data Structure Differences](data-structure-differences.png)
-![Rule Based Intelligent Expert System Configuration](rule-based-intelligent-expert-system-config.png)
-
-![Base-Matrix](knowledgeBase-RuleBase-FactBase-chart.png)
-
-# Driver flow
-![Flowchart](drawio.drawio.png)
-
-# Rules
-![Rules](SS0.png) <br>
-
-# Backward Chaining
-![flowchart-backwardChaining](/ai-cancer-treatment/backwardChaining/flowchart-backwardChaining.png) <br>
-
-# Testing backwardChaining::userValidClauseVect and backwardChaining::generateSubsets
-![test-backwardChaining-userValidClauseVect](/ai-cancer-treatment/backwardChaining/test-backwardChaining-generateSubsets.png) <br>
-
-# Testing backwardChaining.cpp's Determination of Possible Conclusions
-![possibleSolution](/ai-cancer-treatment/backwardChaining/test-backwardChaining-possibleConclusions.png)
-
-# Testing backwardChaining.cpp's Diagnosis
-![diagnosis](/ai-cancer-treatment/backwardChaining/test-backwardChaining-diagnosis.png)
-
-# Testing decisionTree.h
-![dt](/ai-cancer-treatment/decisionTree/test-decisionTree.png)
-
-# Testing treeTypes.h
-Each Conclusion inherits and overrides a Global Static Decision Tree for polymorphic capabilities:<br><br>
-![treeTypes](ai-cancer-treatment/decisionTree/treeTypes.png)
-
 ---
 
 # Project Overview
@@ -218,6 +181,45 @@ Is the disease early-stage and localized?
 ```
 
 ---
+
+
+# Table of Contents
+[ruleBase](/ai-cancer-treatment/ruleBase/) <br>
+[knowledgeBase](/ai-cancer-treatment/knowledgeBase/) creates rules using facts (will use a Rule Base and and a Fact Base) <br>
+
+[forwardChaining](/ai-cancer-treatment/forwardChaining/) <br>
+[backwardChaining](/ai-cancer-treatment/backwardChaining/) <br>
+
+![Data Structure Differences](data-structure-differences.png)
+![Rule Based Intelligent Expert System Configuration](rule-based-intelligent-expert-system-config.png)
+
+![Base-Matrix](knowledgeBase-RuleBase-FactBase-chart.png)
+
+# Driver flow
+![Flowchart](drawio.drawio.png)
+
+# Rules
+![Rules](SS0.png) <br>
+
+# Backward Chaining
+![flowchart-backwardChaining](/ai-cancer-treatment/backwardChaining/flowchart-backwardChaining.png) <br>
+
+# Testing backwardChaining::userValidClauseVect and backwardChaining::generateSubsets
+![test-backwardChaining-userValidClauseVect](/ai-cancer-treatment/backwardChaining/test-backwardChaining-generateSubsets.png) <br>
+
+# Testing backwardChaining.cpp's Determination of Possible Conclusions
+![possibleSolution](/ai-cancer-treatment/backwardChaining/test-backwardChaining-possibleConclusions.png)
+
+# Testing backwardChaining.cpp's Diagnosis
+![diagnosis](/ai-cancer-treatment/backwardChaining/test-backwardChaining-diagnosis.png)
+
+# Testing decisionTree.h
+![dt](/ai-cancer-treatment/decisionTree/test-decisionTree.png)
+
+# Testing treeTypes.h
+Each Conclusion inherits and overrides a Global Static Decision Tree for polymorphic capabilities:<br><br>
+![treeTypes](ai-cancer-treatment/decisionTree/treeTypes.png)
+
 
 # Disclaimer
 
