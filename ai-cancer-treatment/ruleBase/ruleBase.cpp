@@ -237,28 +237,15 @@ void RuleBase::print() const {
 
 // Overload the == operator to compare two Rule objects' ClauseType vectors (pairwise)
 bool Rule::operator==(const Rule& other) const {
-	bool flag = false;
-
-    // First, check if the sizes of the clause lists are the same
-	cout << "Comparing Rules... " << endl;
     if (clauses.size() != other.clauses.size()) {
-        return flag;
+        return false;
     }
-	
-    // Check if both clause lists are identical
     for (size_t i = 0; i < clauses.size(); ++i) {
-		cout << "This Rule's Clauses:" << endl;
-		cout << this->clauses[i] << endl;
-		cout << "Other Rule's Clauses:" << endl;
-		cout << other.clauses[i] << endl;
         if (clauses[i] != other.clauses[i]) {
-            return flag;
+            return false;
         }
     }
-
-	// both rules match clauses
-	flag = true;
-    return flag;
+    return true;
 }
 
 // Rule::getConclusion()
@@ -269,8 +256,7 @@ bool Rule::operator==(const Rule& other) const {
 // Post-condition: if a rule is matched, then a ConclusionType is thrown
 //				  -if a rule is not matched then nothing is returned.
 void Rule::getConclusion(vector<Rule>& myRuleList) {
-	// loop through each Rule within RuleBase's ruleList vector
-	for( int i = 0; i < myRuleList.size(); i++ ){
+	for( size_t i = 0; i < myRuleList.size(); i++ ){
 		if( *this == myRuleList[i] ){
 			cout << "getConclusion match found!" << endl;
 			throw myRuleList[i].conclusion;

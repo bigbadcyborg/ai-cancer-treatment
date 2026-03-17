@@ -94,36 +94,41 @@ string toLowerCase(string str) {
 
 // Traverse tree to make decisions
 void DecisionTree::traverseTree() {
+    if (!root) {
+        cout << "Error: decision tree has not been built.\n";
+        return;
+    }
+
     DecisionNode* current = root;
-    cout << current->question << " (yes/no): ";
     string answer;
-    cin >> answer;
 
     while (current) {
-        // Convert answer to lowercase
+        // Leaf node: both children are null — this is the final recommendation.
+        if (!current->yes && !current->no) {
+            cout << "Final Recommendation: " << current->question << endl;
+            break;
+        }
+
+        cout << current->question << " (yes/no): ";
+        cin >> answer;
         answer = toLowerCase(answer);
 
         if (answer == "yes" || answer == "y") {
-            if (current->yes)
-                current = current->yes;  // Move to the "yes" node
-            else {
+            if (current->yes) {
+                current = current->yes;
+            } else {
                 cout << "Final Recommendation: " << current->question << endl;
                 break;
             }
         } else if (answer == "no" || answer == "n") {
-            if (current->no)
-                current = current->no;  // Move to the "no" node
-            else {
+            if (current->no) {
+                current = current->no;
+            } else {
                 cout << "Final Recommendation: " << current->question << endl;
                 break;
             }
         } else {
             cout << "Invalid response. Please answer yes or no.\n";
-        }
-
-        if (current) {
-            cout << current->question << " (yes/no): ";
-            cin >> answer;
         }
     }
 }
